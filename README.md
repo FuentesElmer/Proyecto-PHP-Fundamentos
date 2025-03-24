@@ -1,4 +1,4 @@
-#Proyecto PHP
+# Proyecto PHP
 ##Descripcion:
 Este proyecto permite mostar mi combre como estudiante y visualizar un imagen por medio del una conexion ip en la web
 
@@ -8,7 +8,7 @@ Visual estudio Code
 git
 apache
 
-#Pasos para la ejecucion
+# Pasos para la ejecucion
 asos para ejecutar tu proyecto PHP:
 
     Instala las herramientas necesarias: Asegúrate de tener las herramientas instaladas en tu computadora:
